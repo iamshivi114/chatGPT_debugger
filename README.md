@@ -1,1 +1,1 @@
-# charGPT_debugger
+# chatGPT_debugger
